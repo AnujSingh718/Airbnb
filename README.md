@@ -1,6 +1,21 @@
 THE APP IS DEPLOYED ON FOLLOWING LINK -
  https://airbnb-clone-73653.web.app
 
+The homepage where we can search rooms and  our best available rooms
+![Screenshot (270)](https://user-images.githubusercontent.com/103810977/233300587-eea032b4-7ec3-44c4-9ac1-1251f69d6069.png)
+
+Allows user to select date and number of days they want to stay
+![Screenshot (271)](https://user-images.githubusercontent.com/103810977/233300819-0137da9e-b5b1-40d7-b238-195f5dee9ad2.png)
+
+The best available rooms 
+![Screenshot (272)](https://user-images.githubusercontent.com/103810977/233301102-6dd1f824-2a70-4660-a616-3d6abd7587a6.png)
+
+On clicking explore nearby leads us to page that shows room available close to us and its details
+![Screenshot (274)](https://user-images.githubusercontent.com/103810977/233301383-e9ca5a7f-8634-4a52-aa92-6a62f8a6621a.png)
+
+The rooms present close to us and a footer . On clicking Airbnb logo it leads you to the home page
+![Screenshot (275)](https://user-images.githubusercontent.com/103810977/233301701-c403c423-dd6b-4aeb-9dc9-2356495910f4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
